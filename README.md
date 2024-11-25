@@ -344,7 +344,7 @@ h1, .site-title {
   </header>
 
   <section class="services" id="servicios">
-    <h3 class="section-title">Nuestros Servicios</h3>
+    <h2 class="section-title">Nuestros Servicios</h2>
     <div class="services-grid">
       <div class="service-card">
         <i class="fas fa-chart-line service-icon"></i>
@@ -358,14 +358,14 @@ h1, .site-title {
       </div>
       <div class="service-card">
         <i class="fas fa-globe service-icon"></i>
-        <h4>Expansión Internacional</h4>
+        <h3>Expansión Internacional</h3>
         <p>Te ayudamos a expandir tu negocio a nuevos mercados globales.</p>
       </div>
     </div>
   </section>
 
   <section class="team" id="nosotros">
-    <h3 class="section-title">Nuestro Equipo</h3>
+    <h2 class="section-title">Nuestro Equipo</h2>
     <div class="team-grid">
       <div class="team-member">
         <div class="avatar">
