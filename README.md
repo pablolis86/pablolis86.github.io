@@ -321,7 +321,7 @@ h1, .site-title {
 </head>
 <body>
   <nav>
-    <div class="logo">UNLu Consulting</div>
+    <div class="logo">UNLu Consulting Group</div>
     <button class="mobile-menu-btn">
       <i class="fas fa-bars"></i>
     </button>
