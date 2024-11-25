@@ -33,12 +33,6 @@
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);
   }
 
-
-h1, .site-title {
-    display: none;
-}
-
-
   .header {
     background: linear-gradient(rgba(26, 79, 139, 0.95), rgba(26, 79, 139, 0.95)), url('https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3') center/cover;
     height: 100vh;
@@ -50,7 +44,7 @@ h1, .site-title {
   .logo {
     font-size: 1.8rem;
     font-weight: 700;
-    color: var(--dark);
+    color: var(--light);
   }
 
   .nav-links {
@@ -87,7 +81,7 @@ h1, .site-title {
     padding: 0 10%;
   }
 
-  .hero h2 {
+  .hero h1 {
     font-size: 3.5rem;
     margin-bottom: 1rem;
   }
@@ -119,7 +113,7 @@ h1, .site-title {
   .section-title {
     text-align: center;
     margin-bottom: 3rem;
-    color: var(--light);
+    color: var(--dark);
   }
 
   .services-grid {
@@ -321,7 +315,7 @@ h1, .site-title {
 </head>
 <body>
   <nav>
-    <div class="logo">UNLu Consulting Group</div>
+    <div class="logo">UNLu Consulting</div>
     <button class="mobile-menu-btn">
       <i class="fas fa-bars"></i>
     </button>
@@ -336,7 +330,7 @@ h1, .site-title {
   <header class="header" id="inicio">
     <div class="hero">
       <div>
-        <h2>Transformamos tu negocio para el futuro</h2>
+        <h1>Transformamos tu negocio para el futuro</h1>
         <p>Soluciones estratégicas personalizadas para impulsar el crecimiento de tu empresa</p>
         <a href="#contacto" class="cta-button">Consulta Gratuita</a>
       </div>
