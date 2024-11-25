@@ -399,7 +399,7 @@ h1, .site-title {
   </section>
 
   <section class="contact" id="contacto">
-    <h2 class="section-title">Contáctanos</h2>
+    <h3 class="section-title">Contáctanos</h3>
     <form class="contact-form" id="contactForm">
       <div class="form-group">
         <input type="text" placeholder="Nombre" required>
