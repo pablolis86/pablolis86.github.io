@@ -34,7 +34,7 @@
   }
 
 
-h1, .site-title {
+.site-title {
     display: none;
 }
 
