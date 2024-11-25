@@ -119,7 +119,7 @@ h1, .site-title {
   .section-title {
     text-align: center;
     margin-bottom: 3rem;
-    color: var(--dark);
+    color: var(--light);
   }
 
   .services-grid {
