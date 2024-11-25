@@ -33,6 +33,12 @@
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);
   }
 
+
+h1, .site-title {
+    display: none;
+}
+
+
   .header {
     background: linear-gradient(rgba(26, 79, 139, 0.95), rgba(26, 79, 139, 0.95)), url('https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3') center/cover;
     height: 100vh;
