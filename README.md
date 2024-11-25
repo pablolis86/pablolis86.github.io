@@ -34,7 +34,7 @@
   }
 
 
-.site-title {
+h1, .site-title {
     display: none;
 }
 
@@ -87,7 +87,7 @@
     padding: 0 10%;
   }
 
-  .hero h1 {
+  .hero h2 {
     font-size: 3.5rem;
     margin-bottom: 1rem;
   }
@@ -336,7 +336,7 @@
   <header class="header" id="inicio">
     <div class="hero">
       <div>
-        <h1>Transformamos tu negocio para el futuro</h1>
+        <h2>Transformamos tu negocio para el futuro</h2>
         <p>Soluciones estratégicas personalizadas para impulsar el crecimiento de tu empresa</p>
         <a href="#contacto" class="cta-button">Consulta Gratuita</a>
       </div>
@@ -344,7 +344,7 @@
   </header>
 
   <section class="services" id="servicios">
-    <h2 class="section-title">Nuestros Servicios</h2>
+    <h3 class="section-title">Nuestros Servicios</h3>
     <div class="services-grid">
       <div class="service-card">
         <i class="fas fa-chart-line service-icon"></i>
@@ -358,14 +358,14 @@
       </div>
       <div class="service-card">
         <i class="fas fa-globe service-icon"></i>
-        <h3>Expansión Internacional</h3>
+        <h4>Expansión Internacional</h4>
         <p>Te ayudamos a expandir tu negocio a nuevos mercados globales.</p>
       </div>
     </div>
   </section>
 
   <section class="team" id="nosotros">
-    <h2 class="section-title">Nuestro Equipo</h2>
+    <h3 class="section-title">Nuestro Equipo</h3>
     <div class="team-grid">
       <div class="team-member">
         <div class="avatar">
