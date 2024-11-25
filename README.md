@@ -12,7 +12,7 @@
     --accent: #f39c12;
     --light: #ecf0f1;
     --dark: #2c3e50;
-    --white: #fff;
+    --white: #ffffff;
   }
 
   body {
