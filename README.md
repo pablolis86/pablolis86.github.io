@@ -50,7 +50,7 @@ h1, .site-title {
   .logo {
     font-size: 1.8rem;
     font-weight: 700;
-    color: var(--light);
+    color: var(--dark);
   }
 
   .nav-links {
