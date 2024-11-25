@@ -12,6 +12,7 @@
     --accent: #f39c12;
     --light: #ecf0f1;
     --dark: #2c3e50;
+    --white: #fff;
   }
 
   body {
@@ -184,7 +185,7 @@
   .contact {
     padding: 5rem 10%;
     background: var(--dark);
-    color: white;
+    color: var(--white);
   }
 
   .contact-form {
